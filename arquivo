@@ -1,0 +1,3 @@
+!#/bin/bash
+
+echo -e "Olá, usuário. Agora eu tenho git :D"
