@@ -1,1 +1,1 @@
-# Repositório com scripts pelo bash. 
+# Repositório com scripts feitos no shell. 
